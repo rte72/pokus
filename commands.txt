@@ -1,0 +1,4 @@
+{"command":"Kicker","data":"{\"command\":\"update\",\"filename\":\"esp32Kicker.ino.bin\"}"}
+{"command":"updateGW","filename":"mqtt_esp32.ino.bin"}
+{"command":"Kicker","data":"{\"command\":\"POS\",\"lat\":\"49.3159821\",\"lon\":\"16.5461905\"}"}
+
