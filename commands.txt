@@ -1,7 +1,7 @@
 {"command":"updateGW","filename":"mqtt_esp32.ino.bin"}
-{"command":"Kicker","data":"{\"command\":\"update\",\"filename\":\"esp32Kicker.ino.bin\"}"}
-{"command":"Kicker","data":"{\"command\":\"POS\",\"lat\":\"49.3159821\",\"lon\":\"16.5461905\"}"}
-{"command":"Kicker","data":"{\"command\":\"kick\",\"feedback\":\"2500\"}"}
-{"command":"Kicker","data":"{\"command\":\"sleep\",\"seconds\":\"60\"}"}
-{"command":"Kicker","data":"{\"command\":\"compassDiv\",\"seconds\":\"180\"}"}
-{"command":"Kicker","data":"{\"command\":\"beeper\",\"seconds\":\"1000\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"update\",\"filename\":\"esp32Kicker.ino.bin\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"POS\",\"lat\":\"49.3159821\",\"lon\":\"16.5461905\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"kick\",\"feedback\":\"2500\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"sleep\",\"seconds\":\"60\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"compassDiv\",\"seconds\":\"180\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"beeper\",\"seconds\":\"1000\"}"}
