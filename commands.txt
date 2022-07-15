@@ -1,4 +1,5 @@
-{"command":"updateGW","filename":"mqtt_esp32.ino.bin"}
+TOPIC:KICKER/O/POS
+{"command":"updateGW","filename":"firmware.bin"}
 {"command":"Kicker","data":"{\"id\":2,\"command\":\"update\",\"filename\":\"esp32Kicker.ino.bin\"}"}
 {"command":"Kicker","data":"{\"id\":2,\"command\":\"POS\",\"lat\":\"49.3159821\",\"lon\":\"16.5461905\"}"}
 {"command":"Kicker","data":"{\"id\":2,\"command\":\"kick\",\"feedback\":\"2500\"}"}
