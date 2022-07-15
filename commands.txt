@@ -4,5 +4,6 @@ TOPIC:KICKER/O/POS
 {"command":"Kicker","data":"{\"id\":2,\"command\":\"POS\",\"lat\":\"49.3159821\",\"lon\":\"16.5461905\"}"}
 {"command":"Kicker","data":"{\"id\":2,\"command\":\"kick\",\"feedback\":\"2500\"}"}
 {"command":"Kicker","data":"{\"id\":2,\"command\":\"sleep\",\"seconds\":\"60\"}"}
-{"command":"Kicker","data":"{\"id\":2,\"command\":\"compassDiv\",\"seconds\":\"180\"}"}
-{"command":"Kicker","data":"{\"id\":2,\"command\":\"beeper\",\"seconds\":\"1000\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"compassDiv\",\"value\":\"180\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"beeper\",\"msec\":\"1000\"}"}
+{"command":"Kicker","data":"{\"id\":2,\"command\":\"setID\",\"value\":\"1\"}"}
