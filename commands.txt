@@ -7,3 +7,4 @@ TOPIC:KICKER/O/POS
 {"command":"Kicker","data":"{\"id\":1,\"command\":\"compassDiv\",\"value\":\"180\"}"}
 {"command":"Kicker","data":"{\"id\":1,\"command\":\"beeper\",\"msec\":\"1000\"}"}
 {"command":"Kicker","data":"{\"id\":0,\"command\":\"setID\",\"value\":\"1\"}"}
+{"command":"Kicker","data":"{\"id\":1,\"command\":\"disconnect\",\"msec\":\"500\"}"}
