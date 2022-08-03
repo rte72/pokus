@@ -1,5 +1,6 @@
-TOPIC:KICKER/O/POS
+TOPIC:GW/02/CMD
 {"command":"updateGW","filename":"firmware.bin"}
+{"command":"setID","value":"2"}
 {"command":"Kicker","data":"{\"id\":1,\"command\":\"update\",\"filename\":\"firmware.bin\"}"}
 {"command":"Kicker","data":"{\"id\":1,\"command\":\"POS\",\"lat\":\"49.3159821\",\"lon\":\"16.5461905\"}"}
 {"command":"Kicker","data":"{\"id\":1,\"command\":\"kick\",\"feedback\":\"2500\"}"}
