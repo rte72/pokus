@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx creator="WTracks"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>pasvina</name>
+  <desc></desc>
+  <author><name>WTracks</name></author>
+  <link href='https://opoto.github.io/wtracks/'>
+    <text>WTracks</text>
+    <type>text/html</type>
+  </link>
+  <time>2022-09-17T11:22:31.372Z</time>
+  <bounds minlat="49.217423" minlon="16.51082" maxlat="49.219819" maxlon="16.51906"/>
+</metadata>
+<trk>
+  <trkseg>
+    <trkpt lat="49.218438" lon="16.512569"></trkpt>
+    <trkpt lat="49.21834" lon="16.513084"></trkpt>
+    <trkpt lat="49.218992" lon="16.513331"></trkpt>
+    <trkpt lat="49.219031" lon="16.512854"></trkpt>
+    <trkpt lat="49.218466" lon="16.512591"></trkpt>
+  </trkseg>
+</trk></gpx>
