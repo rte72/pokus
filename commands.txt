@@ -12,3 +12,5 @@ TOPIC:GW/02/CMD
 {"cmd":"Kicker","data":"{\"id\":0,\"cmd\":\"setID\",\"value\":\"1\"}"}
 {"cmd":"Kicker","data":"{\"id\":1,\"cmd\":\"disconnect\",\"msec\":\"500\"}"}
 {"cmd":"Kicker","data":"{\"id\":1,\"cmd\":\"minSendPeriod\",\"sec\":\"5\"}"}
+{"cmd":"Kicker","data":"{\"id\":1,\"cmd\":\"setBeeper\",\"value\":false}"}
+{"cmd":"Kicker","data":"{\"id\":1,\"cmd\":\"setKicker\",\"value\":true}"}
